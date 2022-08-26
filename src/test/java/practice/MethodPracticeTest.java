@@ -9,6 +9,8 @@ public class MethodPracticeTest {
 // message from megan
     @Test
     public void testCase() {
+        String ret = isItHotOut(81);
+        System.out.println(ret);
 
     }
 
