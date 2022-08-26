@@ -21,6 +21,10 @@ public class MethodPracticeTest {
      * @param number my input number
      */
     public void isLuckyNumber(int number) {
+        int result = number % 7;
+        if(result ==0 ) {
+            System.out.println(" That is a lucky number!");
+        }
 
     }
 
