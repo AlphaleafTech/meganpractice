@@ -11,7 +11,10 @@ public class MeganMethodPracticeTwo {
 
 
     public boolean isTheNumber10(int number) {
-        return false;
+        if (number == 10){
+            return true;
+        }
+         else return false;
     }
 
 
