@@ -16,8 +16,12 @@ public class MeganMethodPracticeTwo {
      * otherwise just return "YOU CAN USE THIS NUMBER"
      */
     public String detectRoomNumber(int roomNum) {
+        if (roomNum == 4 || roomNum == 13 || roomNum == 17) {
 
-        return "";
+            return "DO NOT USE THIS NUMBER";
+        }
+
+        return "YOU CAN USE THIS NUMBER";
     }
 
 
