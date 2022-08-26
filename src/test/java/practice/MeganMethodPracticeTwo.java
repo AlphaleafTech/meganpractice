@@ -10,6 +10,11 @@ public class MeganMethodPracticeTwo {
     }
 
 
+    public boolean isTheNumber10(int number) {
+        return false;
+    }
+
+
     /**
      * I am going to give you a two number
      *    height -> height of the triangle
