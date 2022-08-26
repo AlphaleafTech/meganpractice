@@ -2,7 +2,10 @@ package practice;
 
 import org.testng.annotations.Test;
 
-public class Demo {
+/*
+This class is for method practice
+ */
+public class MethodPracticeTest {
 
     @Test
     public void testCase() {
