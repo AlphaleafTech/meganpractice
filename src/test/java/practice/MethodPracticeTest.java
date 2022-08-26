@@ -14,6 +14,15 @@ public class MethodPracticeTest {
 
     }
 
+    /**
+     * I am going to give you a number, and if that number is divisible
+     * by 7, then I just want you to print out "That is a lucky number!"
+     *
+     * @param number my input number
+     */
+    public void isLuckyNumber(int number) {
+
+    }
 
     //
     public String isItHotOut(int temp) {
