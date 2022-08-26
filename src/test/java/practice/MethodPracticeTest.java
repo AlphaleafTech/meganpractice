@@ -12,3 +12,4 @@ public class MethodPracticeTest {
 
     }
 }
+// the end of the class
