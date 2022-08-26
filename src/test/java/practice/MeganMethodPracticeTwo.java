@@ -18,7 +18,8 @@ public class MeganMethodPracticeTwo {
      *  area = (height * base)/2
      */
     public int areaOfTriangle(int height, int base) {
+        int num = height * base;
+        return num / 2;
 
-        return 0;
     }
 }
