@@ -12,16 +12,19 @@ public class MethodPracticeTest {
 
     }
 
+
+    //
     public String isItHotOut(int temp) {
         if(temp >= 90) {
             return "You should wear lightly! its hot out there yo!";
         }
-        else if(temp < 90 && temp >= 80) {
+        else if(temp >= 80 && temp < 90) {
             return "You can just wear casually! Its nice out~!";
         }
         else {
-            return "Put on a jacket, just in case!";
+            return"Put on a jacket, just in case!";
         }
+
     }
 }
 // the end of the class
