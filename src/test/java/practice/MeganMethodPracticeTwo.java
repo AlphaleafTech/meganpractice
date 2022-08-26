@@ -10,6 +10,17 @@ public class MeganMethodPracticeTwo {
     }
 
 
+    /**
+     * if the input room number is equal to
+     * 4 or 13 or 17  --> "DO NOT USE THIS NUMBER"
+     * otherwise just return "YOU CAN USE THIS NUMBER"
+     */
+    public String detectRoomNumber(int roomNum) {
+
+        return "";
+    }
+
+
     public boolean isTheNumber10(int number) {
         if (number == 10){
             return true;
